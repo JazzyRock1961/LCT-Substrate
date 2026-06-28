@@ -1,5 +1,9 @@
 # LCT-Substrate
 
+IF–THEN  → Execution clock
+AND       → Structural binding
+OR        → Branching possibility
+
 The Workshop Is Open.
 
 ## toy-models/
