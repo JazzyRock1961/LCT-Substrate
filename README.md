@@ -1,10 +1,28 @@
 # LCT-Substrate
 
-IF–THEN  → Execution clock
+IF–THEN   → Execution clock
 AND       → Structural binding
 OR        → Branching possibility
 
+
 The Workshop Is Open.
+
+## Operational Roles
+
+**IF–THEN**
+- What it is: The causal force of implication.
+- What it does: Advances the system from one state to the next.
+- What it's like: A processor clock driving execution.
+
+**AND**
+- What it is: The causal force of association.
+- What it does: Binds facts into stable structures and shared locality.
+- What it's like: The stitching that holds everything together.
+
+**OR**
+- What it is: The causal force of alternative possibility.
+- What it does: Creates the branching paths through the system.
+- What it's like: A branching network of possible routes.
 
 ## toy-models/
 
